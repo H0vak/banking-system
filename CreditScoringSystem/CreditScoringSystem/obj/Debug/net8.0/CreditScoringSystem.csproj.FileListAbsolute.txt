@@ -1,0 +1,14 @@
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\bin\Debug\net8.0\CreditScoringSystem.exe
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\bin\Debug\net8.0\CreditScoringSystem.deps.json
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\bin\Debug\net8.0\CreditScoringSystem.runtimeconfig.json
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\bin\Debug\net8.0\CreditScoringSystem.dll
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\bin\Debug\net8.0\CreditScoringSystem.pdb
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\obj\Debug\net8.0\CreditScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\obj\Debug\net8.0\CreditScoringSystem.AssemblyInfoInputs.cache
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\obj\Debug\net8.0\CreditScoringSystem.AssemblyInfo.cs
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\obj\Debug\net8.0\CreditScoringSystem.csproj.CoreCompileInputs.cache
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\obj\Debug\net8.0\CreditScoringSystem.dll
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\obj\Debug\net8.0\refint\CreditScoringSystem.dll
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\obj\Debug\net8.0\CreditScoringSystem.pdb
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\obj\Debug\net8.0\CreditScoringSystem.genruntimeconfig.cache
+D:\.МОЙ ПРОЕКТ\CreditScoringSystem\CreditScoringSystem\obj\Debug\net8.0\ref\CreditScoringSystem.dll

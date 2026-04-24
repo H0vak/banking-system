@@ -1,0 +1,11 @@
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\bin\Debug\CreditScoringUI.exe.config
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\bin\Debug\CreditScoringUI.exe
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\bin\Debug\CreditScoringUI.pdb
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\obj\Debug\CreditScoringUI.csproj.AssemblyReference.cache
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\obj\Debug\CreditScoringUI.Form1.resources
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\obj\Debug\CreditScoringUI.Properties.Resources.resources
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\obj\Debug\CreditScoringUI.csproj.GenerateResource.cache
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\obj\Debug\CreditScoringUI.csproj.CoreCompileInputs.cache
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\obj\Debug\CreditScoringUI.exe
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\obj\Debug\CreditScoringUI.pdb
+D:\.МОЙ ПРОЕКТ\CreditScoringUI\CreditScoringUI\obj\Debug\CreditScoringUI.exe.config
